@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Jayanth and I have with a degree in Electrical and Electronics Engineering.  I am excited to begin my career as a software engineer and am eager to contribute to GitHub.<br>I am proficient in Java, Python, C++ and have completed several projects during my studies that showcase my abilities. <br>I am a quick learner and am always looking for opportunities to improve my skills. I am looking forward to collaborating with other developers and contributing to meaningful projects on GitHub.
+Hello! My name is Jayanth and I have graduated with a degree in Electrical and Electronics Engineering.  I am excited to begin my career as a software engineer and am eager to contribute to GitHub.<br>I am proficient in Java, Python, C++ and have completed several projects during my studies that showcase my abilities. <br>I am a quick learner and am always looking for opportunities to improve my skills. I am looking forward to collaborating with other developers and contributing to meaningful projects on GitHub.
 
 
 # 💻 Tech Stack:
